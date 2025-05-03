@@ -10,10 +10,10 @@
 ---
 
 I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
-I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into devops automation.  
+I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.  
 
 If you enjoy exploring code and clean architecture, we’ll get along well!  
-Feel free to connect, collaborate or just say hi 👋 — my DMs are open.
+Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
 
