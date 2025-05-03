@@ -9,10 +9,10 @@
 
 ---
 
-I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.
+I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
 I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.
 
-If you enjoy exploring code and clean architecture, we’ll get along well!
+If you enjoy exploring code and clean architecture, we’ll get along well!  
 Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
@@ -47,12 +47,9 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ## 📊 My GitHub Stats
 
-| 📈 Stats                                                                                                                                                                             | 🔥 Languages                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="center" src="https://github.com/aplombDev_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="Aayush's GitHub stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical&langs_count=5" alt="Top Langs" height="200"/> |
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide=stars,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical)
+| 📈 Stats                                                                                                                                                                                                                   | 🔥 Languages                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="Aayush's GitHub stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical&langs_count=5" alt="Top Langs" height="200"/> |
 
 ---
 
