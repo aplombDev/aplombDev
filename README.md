@@ -2,17 +2,17 @@
 
 <!-- Social Links -->
 <p align="left">
-  <a href="https://linkedin.com/in/aplombDev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aayush-joshi-dev10/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aayush-joshi-dev10/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aplombDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.joshiaayush.com.np/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
-I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.  
+I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.
+I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.
 
-If you enjoy exploring code and clean architecture, we’ll get along well!  
+If you enjoy exploring code and clean architecture, we’ll get along well!
 Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
@@ -47,15 +47,16 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ## 📊 My GitHub Stats
 
-| 📈 Stats | 🔥 Languages |
-|----------|--------------|
-| **Total Stars:** 512  <br> **Total Commits:** 21.3k <br> **Total PRs:** 208 <br> **Total Issues:** 87 <br> **Contributed (last year):** 27 | **JavaScript:** 43.91% <br> **TypeScript:** 27.65% <br> **SCSS:** 12.78% <br> **Shell:** 8.39% <br> **Python:** 5.27% |
+| 📈 Stats                                                                                                                                                                                                                   | 🔥 Languages                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="Aayush's GitHub stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical&langs_count=5" alt="Top Langs" height="200"/> |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide=stars,contribs)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide=stars,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical)
 
 ---
 
 ## ⏰ Time spent coding (Last 30 Days)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
