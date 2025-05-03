@@ -55,8 +55,8 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ## ⏰ Time spent coding (Last 30 Days)
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- This will be auto-populated by the Action -->
 
