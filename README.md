@@ -53,8 +53,7 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
 
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aplombDev&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+<!-- Visitor Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aplombDev&label=Profile%20Views&color=0e75b6&style=flat" alt="aplombDev" />
+</p>
