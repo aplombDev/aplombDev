@@ -71,8 +71,6 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 - [ ] [**A philosophy of software design**](https://github.com/aplombDev/pdf/blob/main/psd.pdf)
 - [ ] [**The pragmatic programmer**](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf)
 
-
-> 📌 *Click on the links to read directly from GitHub — I update this list as I finish reading.*
 <!-- Visitor Badge (Unique Count via CountAPI) -->
 <p align="left">
   <img src="https://count.getloli.com/get/@aplombDev?theme=moebooru" alt="Visitor Count"/>
