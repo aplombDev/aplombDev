@@ -53,13 +53,6 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
 
-## ⏰ Time spent coding (Last 30 Days)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- This will be auto-populated by the Action -->
-
 ## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aplombDev&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
