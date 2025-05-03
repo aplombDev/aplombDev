@@ -3,8 +3,8 @@
 <!-- Social Links -->
 <p align="left">
   <a href="https://linkedin.com/in/aplombDev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/aplombDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://aplombdev.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aayush-joshi-dev10/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.joshiaayush.com.np/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 - 🌱 I’m learning **Cloud Engineering** (Docker, CI/CD, and AWS)
 - 🤝 Always open to collaborate on **Open Source Projects**
 - 🧠 Exploring **Algorithms & Design Patterns** to level up my backend chops
-- 📫 How to reach me: **aplombdev@gmail.com**
+- 📫 How to reach me: **aayushj2001@gmail.com**
 - ⚡ Fun fact: I love optimizing **React** apps as much as I love **coffee** ☕
 
 ---
@@ -58,9 +58,3 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ## ⏰ Time spent coding (Last 30 Days)
 
-```txt
-Python       13 hrs 28 mins  ████████████████░░░░░░░░  73.09 %
-TypeScript    1 hr 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.66 %
-JSON          1 hr 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░   5.63 %
-SCSS          1 hr           ██░░░░░░░░░░░░░░░░░░░░░░   5.49 %
-Markdown      55 mins        ██░░░░░░░░░░░░░░░░░░░░░░   5.02 %
