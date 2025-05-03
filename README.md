@@ -53,6 +53,18 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
 
+---
+
+## 📚 PDF Reading Tracker
+
+Here’s a list of PDFs I’m currently reading or have completed — straight from my GitHub repository!
+
+- [ ] [**Clean Code**](./pdfs/clean-code.pdf)  
+- [x] [**Design Patterns Explained**](./pdfs/design-patterns-explained.pdf) ✅  
+- [ ] [**You Don’t Know JS**](./pdfs/you-dont-know-js.pdf)
+
+> 📌 *Click on the links to read directly from GitHub — I update this list as I finish reading.*
+
 <!-- Visitor Badge (Unique Count via CountAPI) -->
 <p align="left">
   <img src="https://count.getloli.com/get/@aplombDev?theme=moebooru" alt="Visitor Count"/>
