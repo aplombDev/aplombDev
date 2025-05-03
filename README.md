@@ -53,7 +53,7 @@ Feel free to connect, collaborate, or just say hi 👋 — my DMs are open.
 
 ---
 
-<!-- Visitor Badge -->
+<!-- Visitor Badge (Unique Count via CountAPI) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aplombDev&label=Profile%20Views&color=0e75b6&style=flat" alt="aplombDev" />
+  <img src="https://count.getloli.com/get/@aplombDev?theme=moebooru" alt="Visitor Count"/>
 </p>
