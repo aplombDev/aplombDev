@@ -49,7 +49,7 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 <!--START_SECTION:waka-->
 ## ⌨️ Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushj&theme=radical&layout=compact" alt="Weekly Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@aayushj&theme=radical&layout=compact" alt="Weekly Coding Stats" />
 </p>
 <!--END_SECTION:waka-->
 
