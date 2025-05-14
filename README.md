@@ -47,10 +47,9 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 ## 📊 My GitHub Stats
 
-| 📈 Stats                                                                                                                                                                                                                   | 🔥 Languages                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="Aayush's GitHub stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplombDev&layout=compact&theme=radical&langs_count=5" alt="Top Langs" height="200"/> |
-
+| 📈 Activity | ⚡ Productivity | ⌨️ Coding Time |
+|------------|----------------|----------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=aplombDev&repo=your-most-active-repo&theme=radical" height="200" alt="Active Project"/> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aplombDev&theme=radical" height="200"/> |
 ---
 
 ---
