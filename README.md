@@ -75,3 +75,8 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 <p align="left">
   <img src="https://count.getloli.com/get/@aplombDev?theme=moebooru" alt="Visitor Count"/>
 </p>
+
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=5" alt="WakaTime Stats" />
+</p>
