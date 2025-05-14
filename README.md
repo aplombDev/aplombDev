@@ -53,7 +53,7 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 </p>
 <!--END_SECTION:waka-->
 
-## 📚 PDF Reading Tracker
+## 📚 Books Currently Reading
 
 Here’s a list of PDFs I’m currently reading or have completed — straight from my GitHub repository!
 
