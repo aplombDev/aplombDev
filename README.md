@@ -77,5 +77,7 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 </p>
 
 <!-- WakaTime Stats -->
+## ⌨️ Coding Activity
 <p align="center">
-<figure><embed src="https://wakatime.com/share/@44ae52ae-bd61-4e30-bbac-bd03a7d4a483/0c4fdd93-7945-4532-86af-7f9959bd667a.svg"></embed></figure></p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aplombDev&theme=radical&layout=compact" alt="Weekly Coding Stats" />
+</p>
