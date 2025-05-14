@@ -78,5 +78,4 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 
 <!-- WakaTime Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=5" alt="WakaTime Stats" />
-</p>
+<figure><embed src="https://wakatime.com/share/@44ae52ae-bd61-4e30-bbac-bd03a7d4a483/0c4fdd93-7945-4532-86af-7f9959bd667a.svg"></embed></figure></p>
