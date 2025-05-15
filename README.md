@@ -48,10 +48,10 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 <!--START_SECTION:waka-->
 ## ⌨️ Coding Activity
-<figure>
-  <embed src="https://wakatime.com/share/@aayushj/655475ad-5f90-40d0-b7bb-923e5d7b3897.svg"></embed>
-</figure>
-
+## ⌨️ Coding Activity
+<p align="center">
+  <img src="https://wakatime.com/share/@aayushj/655475ad-5f90-40d0-b7bb-923e5d7b3897.svg" alt="WakaTime Stats"/>
+</p>
 <!--END_SECTION:waka-->
 
 ## 📚 Books Currently Reading
