@@ -48,9 +48,10 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 <!--START_SECTION:waka-->
 ## ⌨️ Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@aayushj&theme=radical&layout=compact" alt="Weekly Coding Stats" />
-</p>
+<figure>
+  <embed src="https://wakatime.com/share/@aayushj/655475ad-5f90-40d0-b7bb-923e5d7b3897.svg"></embed>
+</figure>
+
 <!--END_SECTION:waka-->
 
 ## 📚 Books Currently Reading
