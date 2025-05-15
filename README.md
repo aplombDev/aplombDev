@@ -45,14 +45,6 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 ---
 
-
-<!--START_SECTION:waka-->
-## ⌨️ Coding Activity
-<p align="center">
-  <img src="https://wakatime.com/share/@aayushj/655475ad-5f90-40d0-b7bb-923e5d7b3897.svg?ts=20250515-1030" alt="WakaTime Stats"/>
-</p>
-<!--END_SECTION:waka-->
-
 ## 📚 Books Currently Reading
 
 Here’s a list of PDFs I’m currently reading or have completed — straight from my GitHub repository!
