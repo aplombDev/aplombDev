@@ -62,9 +62,7 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 - [ ] [**The pragmatic programmer**](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf)
 
 <!-- Visitor Badge (Unique Count via CountAPI) -->
-<p align="left">
-  <img src="https://count.getloli.com/get/@aplombDev?theme=moebooru" alt="Visitor Count"/>
-</p>
+<p>Visitor Count: <img src="https://count.getloli.com/get/@aplombDev" alt="Visitor Count" /></p>
 
 
 ## 📊 My GitHub Stats
