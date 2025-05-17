@@ -61,9 +61,7 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 - [ ] [**A philosophy of software design**](https://github.com/aplombDev/pdf/blob/main/psd.pdf)
 - [ ] [**The pragmatic programmer**](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf)
 
-<!-- Visitor Badge (Unique Count via CountAPI) -->
-<p>Visitor Count: <img src="https://count.getloli.com/get/@aplombDev" alt="Visitor Count" /></p>
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square)
 
 ## 📊 My GitHub Stats
 
