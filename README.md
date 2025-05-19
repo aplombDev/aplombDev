@@ -67,7 +67,7 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&custom_title=My%20Development%20Activity" alt="GitHub Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
