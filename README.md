@@ -70,7 +70,7 @@ Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ide
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aplombDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
 
