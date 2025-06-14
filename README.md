@@ -72,9 +72,9 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 
 ## 🕒 Coding Activity (WakaTime)
 
-![WakaTime World Rank](https://wakatime.com/badge/user/<your-user-id>/rank.svg)
-![WakaTime Country Rank](https://wakatime.com/badge/user/<your-user-id>/rank/<country-code>.svg)
+![WakaTime World Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank.svg)
+![WakaTime Country Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank/<country-code>.svg)
 
 <!-- Example for Nepal -->
-![WakaTime Nepal Rank](https://wakatime.com/badge/user/<your-user-id>/rank/np.svg)
+![WakaTime Nepal Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank/np.svg)
 ---
