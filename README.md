@@ -70,13 +70,4 @@ Here's a list of PDFs I'm currently reading or have completed — straight from 
   <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## 🕒 Coding Activity (WakaTime)
-
-[![WakaTime World Rank](https://wakatime.com/badge/user/aayushj/rank.svg)](https://wakatime.com/@aayushj)
-[![WakaTime Nepal Rank](https://wakatime.com/badge/user/aayushj/rank/np.svg)](https://wakatime.com/@aayushj)
-[![WakaTime Profile](https://wakatime.com/badge/user/aayushj.svg)](https://wakatime.com/@aayushj)
-
-<!-- Optional: Weekly Coding Activity Graph -->
-![WakaTime Weekly Stats](https://wakatime.com/share/@aayushj/your-embed-code.svg)
-
 ---
