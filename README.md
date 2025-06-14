@@ -9,8 +9,8 @@
 
 ---
 
-I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I’m currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
-I love building products that are fast, accessible, and user-friendly 🚀. You’ll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.
+I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I'm currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
+I love building products that are fast, accessible, and user-friendly 🚀. You'll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.
 
 We'll get along well if you enjoy exploring code and clean architecture!  
 Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
@@ -19,8 +19,8 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 ## 🦄 A little more about me...
 
-- 🔥 I’m currently working on **Production-grade SaaS applications**
-- 🌱 I’m learning **Cloud Engineering** (Docker, CI/CD, and AWS)
+- 🔥 I'm currently working on **Production-grade SaaS applications**
+- 🌱 I'm learning **Cloud Engineering** (Docker, CI/CD, and AWS)
 - 🤝 Always open to collaborate on **Open Source Projects**
 - 🧠 Exploring **Algorithms & Design Patterns** to level up my backend chops
 - 📫 How to reach me: **aayushj2001@gmail.com**
@@ -48,7 +48,7 @@ Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
 
 ## 📚 Books Currently Reading
 
-Here’s a list of PDFs I’m currently reading or have completed — straight from my GitHub repository!
+Here's a list of PDFs I'm currently reading or have completed — straight from my GitHub repository!
 
 - [ ] [**Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging**](https://github.com/aplombDev/pdf/blob/main/Andreas_Zeller_Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009.pdf)  
 - [x] [**Clean.Code**](https://github.com/aplombDev/pdf/blob/main/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf) ✅  
@@ -72,9 +72,11 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
 
 ## 🕒 Coding Activity (WakaTime)
 
-![WakaTime World Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank.svg)
-![WakaTime Country Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank/<country-code>.svg)
+[![WakaTime World Rank](https://wakatime.com/badge/user/aayushj/rank.svg)](https://wakatime.com/@aayushj)
+[![WakaTime Nepal Rank](https://wakatime.com/badge/user/aayushj/rank/np.svg)](https://wakatime.com/@aayushj)
+[![WakaTime Profile](https://wakatime.com/badge/user/aayushj.svg)](https://wakatime.com/@aayushj)
 
-<!-- Example for Nepal -->
-![WakaTime Nepal Rank](https://wakatime.com/badge/user/https://wakatime.com/@aayushj/rank/np.svg)
+<!-- Optional: Weekly Coding Activity Graph -->
+![WakaTime Weekly Stats](https://wakatime.com/share/@aayushj/your-embed-code.svg)
+
 ---
