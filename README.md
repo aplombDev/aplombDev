@@ -68,5 +68,8 @@ Here's a list of PDFs I'm currently reading or have completed — straight from 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  ![WakaTime Rank](https://wakatime.com/badge/rank/@aayushj.svg)
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aplombDev&theme=radical" alt="GitHub Contribution Graph"/>
 </p>
