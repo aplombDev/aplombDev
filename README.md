@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aayush Joshi!
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/aayush-joshi-dev10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/AayushJ04204134"><img alt="X" src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.joshiaayush.com.np/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
