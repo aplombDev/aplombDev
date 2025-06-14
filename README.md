@@ -1,75 +1,81 @@
-# Hi, I'm Aayush Joshi 👋
+# 👋 Hey, I'm Aayush Joshi!
 
-<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-joshi-dev10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/AayushJ04204134"><img alt="X" src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.joshiaayush.com.np/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+I'm a **Fullstack Developer** from **Nepal** 🇳🇵, passionate about crafting **fast, accessible, and scalable** web applications using **React**, **Next.js**, and **Node.js**. I thrive on optimizing UIs, building robust APIs, and exploring **cloud infrastructure** (AWS, Docker, CI/CD).  
+
+Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ideas, or just a chat.
+
+---
+
+## 🌟 About Me
+
+- **Currently**: Building **production-grade SaaS** apps
+- **Learning**: **Cloud Engineering** (AWS, Kubernetes, CI/CD) & **System Design**
+- **Open to**: **Open Source** contributions and exciting projects
+- **Fun Fact**: I optimize **React** apps as much as I sip **coffee** ☕
+- **Reach me**: [aayushj2001@gmail.com](mailto:aayushj2001@gmail.com)
+
+---
+
+## 🛠️ My Tech Stack
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/aayush-joshi-dev10/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/AayushJ04204134" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.joshiaayush.com.np/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
-I'm **Aayush Joshi**, a passionate **Frontend & Backend Developer** ⚡ from **Nepal** 🇳🇵. I'm currently working on modern **Fullstack** projects with **React**, **Next.js**, and **Node.js** — with a growing curiosity towards cloud infrastructure and scalable systems.  
-I love building products that are fast, accessible, and user-friendly 🚀. You'll often find me fine-tuning UIs, testing APIs, or diving deep into DevOps automation.
+## 📚 Books I'm Reading
 
-We'll get along well if you enjoy exploring code and clean architecture!  
-Feel free to connect, collaborate, or say hi 👋 — my DMs are open.
-
----
-
-## 🦄 A little more about me...
-
-- 🔥 I'm currently working on **Production-grade SaaS applications**
-- 🌱 I'm learning **Cloud Engineering** (Docker, CI/CD, and AWS)
-- 🤝 Always open to collaborate on **Open Source Projects**
-- 🧠 Exploring **Algorithms & Design Patterns** to level up my backend chops
-- 📫 How to reach me: **aayushj2001@gmail.com**
-- ⚡ Fun fact: I love optimizing **React** apps as much as I love **coffee** ☕
-
----
-
-## 🛠️ Stuffs I use (Languages, Tools & Others)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Status | Book Title | Link |
+|--------|------------|------|
+| ⏳ | Why Programs Fail (2nd Ed.) | [PDF](https://github.com/aplombDev/pdf/blob/main/Andreas_Zeller_Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009.pdf) |
+| ✅ | Clean Code | [PDF](https://github.com/aplombDev/pdf/blob/main/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf) |
+| ⏳ | Database Internals | [PDF](https://github.com/aplombDev/pdf/blob/main/Database%20Internals.pdf) |
+| ⏳ | Designing Data-Intensive Applications | [PDF](https://github.com/aplombDev/pdf/blob/main/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20(%20PDFDrive%20).pdf) |
+| ⏳ | Refactoring (2nd Ed.) | [PDF](https://github.com/aplombDev/pdf/blob/main/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf) |
+| ⏳ | Software Architecture: The Hard Parts | [PDF](https://github.com/aplombDev/pdf/blob/main/Software.Architecture.The.Hard.Parts.Neal.Ford.OReilly.9781492086895.EBooksWorld.ir.pdf) |
+| ⏳ | Working Effectively with Legacy Code | [PDF](https://github.com/aplombDev/pdf/blob/main/Working.Effectively.with.Legacy.Code..www.EBooksWorld.ir.pdf) |
+| ⏳ | Extreme Ownership | [PDF](https://github.com/aplombDev/pdf/blob/main/extreme_ownership__how_us_navy_seals_lead_and_win.pdf) |
+| ⏳ | The Mythical Man-Month | [PDF](https://github.com/aplombDev/pdf/blob/main/mythical-man-month.pdf) |
+| ⏳ | A Philosophy of Software Design | [PDF](https://github.com/aplombDev/pdf/blob/main/psd.pdf) |
+| ⏳ | The Pragmatic Programmer | [PDF](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf) |
 
 ---
 
-## 📚 Books Currently Reading
-
-Here's a list of PDFs I'm currently reading or have completed — straight from my GitHub repository!
-
-- [ ] [**Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging**](https://github.com/aplombDev/pdf/blob/main/Andreas_Zeller_Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009.pdf)  
-- [x] [**Clean.Code**](https://github.com/aplombDev/pdf/blob/main/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf) ✅  
-- [ ] [**Database Internals**](https://github.com/aplombDev/pdf/blob/main/Database%20Internals.pdf)
-- [ ] [**Designing Data-Intensive Applications**](https://github.com/aplombDev/pdf/blob/main/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20(%20PDFDrive%20).pdf)
-- [ ] [**Refactoring**](https://github.com/aplombDev/pdf/blob/main/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf)
-- [ ] [**Software.Architecture**](https://github.com/aplombDev/pdf/blob/main/Software.Architecture.The.Hard.Parts.Neal.Ford.OReilly.9781492086895.EBooksWorld.ir.pdf)
-- [ ] [**Working.Effectively.with.Legacy.Code**](https://github.com/aplombDev/pdf/blob/main/Working.Effectively.with.Legacy.Code..www.EBooksWorld.ir.pdf)
-- [ ] [**extreme_ownership**](https://github.com/aplombDev/pdf/blob/main/extreme_ownership__how_us_navy_seals_lead_and_win.pdf)
-- [ ] [**mythical-man**](https://github.com/aplombDev/pdf/blob/main/mythical-man-month.pdf)
-- [ ] [**A philosophy of software design**](https://github.com/aplombDev/pdf/blob/main/psd.pdf)
-- [ ] [**The pragmatic programmer**](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square)
-
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aplombDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aplombDev&theme=radical" alt="GitHub Contribution Graph"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+Got an idea for a project or just want to geek out about code? Reach out via [email](mailto:aayushj2001@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/aayush-joshi-dev10/). Let's build something awesome together! 🚀
