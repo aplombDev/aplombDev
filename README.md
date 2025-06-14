@@ -70,4 +70,11 @@ Here’s a list of PDFs I’m currently reading or have completed — straight f
   <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+## 🕒 Coding Activity (WakaTime)
+
+![WakaTime World Rank](https://wakatime.com/badge/user/<your-user-id>/rank.svg)
+![WakaTime Country Rank](https://wakatime.com/badge/user/<your-user-id>/rank/<country-code>.svg)
+
+<!-- Example for Nepal -->
+![WakaTime Nepal Rank](https://wakatime.com/badge/user/<your-user-id>/rank/np.svg)
 ---
