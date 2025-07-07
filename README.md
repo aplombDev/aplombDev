@@ -17,7 +17,7 @@ Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ide
 ## 🌟 About Me
 
 - **Currently**: Building **production-grade SaaS** apps
-- **Learning**: **Backend Development & **System Design**
+- **Learning**: **Backend Development** & **System Design**
 - **Open to**: **Open Source** contributions and exciting projects
 - **Fun Fact**: I optimize **React** apps as much as I sip **coffee** ☕
 - **Reach me**: [aayushj2001@gmail.com](mailto:aayushj2001@gmail.com)
