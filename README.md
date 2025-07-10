@@ -8,7 +8,7 @@
 
 ---
 
-I'm a **Fullstack Developer** from **Nepal** 🇳🇵, passionate about crafting **fast, accessible, and scalable** web applications using **React**, **Next.js**, and **Node.js**. I thrive on optimizing UIs, building robust APIs, and exploring **cloud infrastructure** (AWS, Docker, CI/CD).  
+I'm a **Mid level React developer** from **Nepal** 🇳🇵, passionate about crafting **fast, accessible, and scalable** web applications using **React**, **Next.js**, and **Redux**. I thrive on optimizing UIs, building robust Web App, and exploring **Backend services** (Java, Node.js).  
 
 Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ideas, or just a chat.
 
