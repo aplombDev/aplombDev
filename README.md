@@ -59,7 +59,7 @@ Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ide
 | ⏳ | Extreme Ownership | [PDF](https://github.com/aplombDev/pdf/blob/main/extreme_ownership__how_us_navy_seals_lead_and_win.pdf) |
 | ⏳ | The Mythical Man-Month | [PDF](https://github.com/aplombDev/pdf/blob/main/mythical-man-month.pdf) |
 | ⏳ | A Philosophy of Software Design | [PDF](https://github.com/aplombDev/pdf/blob/main/psd.pdf) |
-| ⏳ | The Pragmatic Programmer | [PDF](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf) |
+| ✅ | The Pragmatic Programmer | [PDF](https://github.com/aplombDev/pdf/blob/main/the-pragmatic-programmer.pdf) |
 
 ---
 
