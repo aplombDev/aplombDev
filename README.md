@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Aayush Joshi!
+<p align="start">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square" alt="Visitor Count"/>
+</p>
+
+# <p> Hi there  👋 </p>
 
 <p align="start">
   <a href="https://www.linkedin.com/in/aayush-joshi-dev10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -68,10 +72,6 @@ Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ide
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aplombDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="start">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aplombDev&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
 
 ---
