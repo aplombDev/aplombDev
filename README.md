@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **Mid level React developer** from **Nepal** 🇳🇵, passionate about crafting **fast, accessible, and scalable** web applications using **React**, **Next.js**, and **Redux**. I thrive on optimizing UIs, building robust Web App, and exploring **Backend services** (Java, Node.js).  
+I'm a **React developer** from **Nepal** 🇳🇵, passionate about crafting **fast, accessible, and scalable** web applications using **React**, **Next.js**, and **Redux**. I thrive on optimizing UIs, building robust Web App, and exploring **Backend services** (Java, Node.js).  
 
 Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ideas, or just a chat.
 
