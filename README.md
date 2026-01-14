@@ -57,15 +57,6 @@ Love clean code and coffee? Let's connect! 🚀 My DMs are open for collabs, ide
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aplombDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aplombDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Collaborate!
 
 Got an idea for a project or just want to geek out about code? Reach out via [email](mailto:aayushj2001@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/aayush-joshi-dev10/). Let's build something awesome together! 🚀
